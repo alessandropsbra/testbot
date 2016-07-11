@@ -9,7 +9,6 @@ app.listen((process.env.PORT || 3000));
 
 // Server frontpage
 app.get('/', function (req, res) {
-    res.send('EAAY4QyjJcIoBAF4jdf6o5yb3By2HFXGrkX9iLYN9LN33oVF1sU7GlGa5gXMkWaakWZBUAdmdhpQJZCoxEb4N9NwjKEBPNbPp3CE9NqZBlCdoo5YLSuwy2tWeT9spC9uC2CYmXRZCRHoKi0KiS8ZCxGdcR34ZAMvVZAVdVDGVFRdZAAZDZD');
 });
 
 // Facebook Webhook
